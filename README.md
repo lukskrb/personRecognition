@@ -3,7 +3,9 @@ A program that uses the scikit-learn library to recognize the person who entered
 
 ## Used data
 The data must be in the picle file as a dictionary structure in the following way:
+
 ![Struktura_pod_IP2](https://github.com/lukskrb/personRecognition/assets/95753335/5c55cfc4-8b10-49d5-b340-b9ceb0136fee)
+
 where the keys represent:
 
 "0" - unique user ID (0 - 19)
